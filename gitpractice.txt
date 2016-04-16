@@ -1,6 +1,10 @@
 hai how r u..
 <<<<<<< HEAD
+<<<<<<< HEAD
 changed by kedar
+=======
+changed by srinivas
+>>>>>>> ba32ef77109d785231319fb14623755d0521eaa8
 =======
 
 chNGED BY KAVITHA
