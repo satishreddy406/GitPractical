@@ -1,2 +1,15 @@
 hai how r u..
+<<<<<<< HEAD
 hi hw r u prakash i am chnging
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+changed by kedar
+=======
+changed by srinivas
+>>>>>>> ba32ef77109d785231319fb14623755d0521eaa8
+=======
+
+chNGED BY KAVITHA
+>>>>>>> 5b3bfc327f8f72f6a2142196211e6c4a258b9868
+>>>>>>> afeeef05104bf2e28b1073f099d760672dc7ea1a
