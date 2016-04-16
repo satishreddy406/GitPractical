@@ -1,0 +1,85 @@
+
+Ram@Ram-PC MINGW64 ~
+$ cd
+
+Ram@Ram-PC MINGW64 ~
+$ cd /e
+
+Ram@Ram-PC MINGW64 /e
+$ cd -e/git
+bash: cd: -/: invalid option
+cd: usage: cd [-L|[-P [-e]] [-@]] [dir]
+
+Ram@Ram-PC MINGW64 /e
+$ cd Git
+
+Ram@Ram-PC MINGW64 /e/Git
+$ cd Practical
+
+Ram@Ram-PC MINGW64 /e/Git/Practical
+$ git-config --global user.name "bramarao443";
+bash: git-config: command not found
+
+Ram@Ram-PC MINGW64 /e/Git/Practical
+$ git config --global user.name "bramarao443";
+
+Ram@Ram-PC MINGW64 /e/Git/Practical
+$ ^C
+
+Ram@Ram-PC MINGW64 /e/Git/Practical
+$ git config --global user.email bramarao443@gmail.com
+
+Ram@Ram-PC MINGW64 /e/Git/Practical
+$ git clone https://github.com/bramarao443/bramarao443.git
+Cloning into 'bramarao443'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+
+Ram@Ram-PC MINGW64 /e/Git/Practical
+$ pwd
+/e/Git/Practical
+
+Ram@Ram-PC MINGW64 /e/Git/Practical
+$ git status
+fatal: Not a git repository (or any of the parent directories): .git
+
+Ram@Ram-PC MINGW64 /e/Git/Practical
+$ cd /e/Git/Practical/bramarao443/
+
+Ram@Ram-PC MINGW64 /e/Git/Practical/bramarao443 (master)
+$ ^C
+
+Ram@Ram-PC MINGW64 /e/Git/Practical/bramarao443 (master)
+$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        New Text Document.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Ram@Ram-PC MINGW64 /e/Git/Practical/bramarao443 (master)
+$ git add -A
+
+Ram@Ram-PC MINGW64 /e/Git/Practical/bramarao443 (master)
+$ git add -A
+
+Ram@Ram-PC MINGW64 /e/Git/Practical/bramarao443 (master)
+$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   New Text Document.txt
+
+
+Ram@Ram-PC MINGW64 /e/Git/Practical/bramarao443 (master)
+$
+
