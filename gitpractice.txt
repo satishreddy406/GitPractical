@@ -1,2 +1,7 @@
 hai how r u..
+<<<<<<< HEAD
 changed by kedar
+=======
+
+chNGED BY KAVITHA
+>>>>>>> 5b3bfc327f8f72f6a2142196211e6c4a258b9868
