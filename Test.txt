@@ -1,11 +1,9 @@
 Hiii
 dasdsa
 
-<<<<<<< HEAD
+
 
 
 
 fsdfadfasdfasdfasd
-=======
-shdfhsdhfisdjfh
->>>>>>> 883db203962fcaaa171a47c1638d2740f3f600f4
+
